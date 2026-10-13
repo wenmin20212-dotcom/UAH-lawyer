@@ -1,0 +1,11 @@
+{
+  "schema": "uah-lawyer-runtime-reference/v0.1",
+  "upstream": "Pure UAH Native / Goose",
+  "baselineSourceCommit": "26e5c009f224169493c4a61a1d9f61d6ed5331a9",
+  "backendVersion": "1.52.0",
+  "nodeVersion": "24.21.0",
+  "npmVersion": "11.19.0",
+  "url": "https://github.com/wenmin20212-dotcom/UAH-lawyer/releases/download/v0.1.0/UAH-Lawyer-0.1.0-win-x64-Portable.zip",
+  "sha256": "1cb197b6fa409b0e8a61e1c975ee515f1ea501900032c2b03927202229e87127",
+  "note": "Public portable release becomes the pinned binary dependency after the initial build; complete native host source is not vendored."
+}

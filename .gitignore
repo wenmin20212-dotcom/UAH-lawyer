@@ -1,0 +1,10 @@
+/node_modules/
+/.cache/
+/build/
+/releases/
+/data/
+/workspace/
+*.log
+.env
+.env.*
+config.yaml

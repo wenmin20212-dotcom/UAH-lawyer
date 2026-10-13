@@ -1,0 +1,59 @@
+{
+  "schema": "uahraf9m-demold/v0.1",
+  "id": "uah-lawyer",
+  "name": "律师助手",
+  "version": "0.1.0",
+  "mode": "prototype",
+  "views": {
+    "M1": {
+      "status": "ready",
+      "files": [
+        "9m/M1.md"
+      ]
+    },
+    "M2": {
+      "status": "incomplete",
+      "files": [
+        "9m/M2.md",
+        "9m/M2/M2.1.md",
+        "9m/M2/M2.2.md",
+        "9m/M2/M2.3.md",
+        "9m/M2/M2.4.md",
+        "9m/M2/M2.5.md"
+      ]
+    },
+    "M3": {
+      "status": "incomplete",
+      "files": [
+        "9m/M3/structure.md"
+      ]
+    },
+    "M4": {
+      "status": "incomplete",
+      "files": []
+    },
+    "M5": {
+      "status": "incomplete",
+      "files": []
+    },
+    "M6": {
+      "status": "incomplete",
+      "files": []
+    },
+    "M7": {
+      "status": "incomplete",
+      "files": []
+    },
+    "M8": {
+      "status": "incomplete",
+      "files": []
+    },
+    "M9": {
+      "status": "incomplete",
+      "files": []
+    }
+  },
+  "files": [],
+  "skills": [],
+  "mcp": []
+}

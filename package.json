@@ -1,0 +1,13 @@
+{
+  "name": "uah-lawyer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Independent Windows lawyer-assistant prototype built on the UAH desktop runtime",
+  "scripts": {
+    "build": "node tools/build.cjs",
+    "installer": "node tools/build-installer.cjs",
+    "test": "node tools/test-bootstrap.cjs"
+  },
+  "dependencies": {"@electron/asar": "3.4.1", "yaml": "2.8.1"},
+  "engines": {"node": ">=22"}
+}
